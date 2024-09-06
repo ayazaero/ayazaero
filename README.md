@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about general field of Controls, with particular interest in Robotics and Flying Vehicles.<br>I am currently working on a state-of-the-art simulation platform for simulation of multiple aerial vehicles.<br>I am learning integrating Python, C++ and Unreal Engine<br>I need help with fast and easy large terrain generation in Unreal Engine
+I am passionate about general field of Controls, with particular interest in Autonomous Vehicles.<br>I am currently working on a state-of-the-art simulation platform for simulation of multiple aerial vehicles.<br>I am learning integrating Python, C++ and Unreal Engine<br>I need help with fast and easy large terrain generation in Unreal Engine
 
 
 ## 🌐 Socials:
